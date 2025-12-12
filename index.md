@@ -23,7 +23,7 @@ A code review involves a thorough assessment of source code conducted by one or 
 The code features a state machine with three distinct states: Off, Heat, and Cool. Its primary functions include reading the current temperature, allowing the user to modify a temperature setpoint, controlling the LEDs to visually represent the current state and whether the system is actively heating (with Red pulsing) or cooling (with Blue pulsing), displaying status information (date/time, current temperature, setpoint) on the LCD, and transmitting a comma-separated status string over the serial port (UART) every 30 seconds to an external TemperatureServer.
 
 * **Associated Files:**
-    * [[./Thermostat.py](https://github.com/harperwill7/harperwill.github.io/blob/main/Thermostat.py)][./ThermostatEnhancement.py](https://github.com/harperwill7/harperwill.github.io/blob/main/ThermostatEnhancement.py)
+    * [./Thermostat.py](https://github.com/harperwill7/harperwill.github.io/blob/main/Thermostat.py) [./ThermostatEnhancement.py](https://github.com/harperwill7/harperwill.github.io/blob/main/ThermostatEnhancement.py)
     * [./Milestone Two Enhancements Will Harper.docx](https://github.com/harperwill7/harperwill.github.io/blob/main/Milestone%20Two%20Enhancements%20Will%20Harper.docx)
 
 ### Enhancement Two: Algorithms and Data Structures
