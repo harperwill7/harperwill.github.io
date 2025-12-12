@@ -12,7 +12,7 @@ Welcome to my portfolio for CS499! This site showcases my work on the Thermostat
 ### Code Review
 
 A code review involves a thorough assessment of source code conducted by one or more individuals, usually peers, aimed at identifying errors, vulnerabilities, and ensuring compliance with coding standards prior to merging the code into a main branch or deploying it. This practice is vital for computer science professionals as it acts as a key quality checkpoint, greatly enhancing the overall quality, maintainability, and security of software by detecting defects early, facilitating knowledge sharing within the team, and reducing technical debt.
-**Link to Code Review Document/Files:** (https://youtu.be/3DG01vomTYg)
+**Link to Code Review Document/Files:** https://youtu.be/3DG01vomTYg
 
 ## Artifacts and Enhancements
 
@@ -23,24 +23,24 @@ A code review involves a thorough assessment of source code conducted by one or 
 The code features a state machine with three distinct states: Off, Heat, and Cool. Its primary functions include reading the current temperature, allowing the user to modify a temperature setpoint, controlling the LEDs to visually represent the current state and whether the system is actively heating (with Red pulsing) or cooling (with Blue pulsing), displaying status information (date/time, current temperature, setpoint) on the LCD, and transmitting a comma-separated status string over the serial port (UART) every 30 seconds to an external TemperatureServer.
 
 * **Associated Files:**
-    * ./Thermostat.py ./ThermostatEnhancement.py
-    * ./Milestone Two Enhancements Will Harper.docx
+    * [[./Thermostat.py](https://github.com/harperwill7/harperwill.github.io/blob/main/Thermostat.py)][./ThermostatEnhancement.py](https://github.com/harperwill7/harperwill.github.io/blob/main/ThermostatEnhancement.py)
+    * [./Milestone Two Enhancements Will Harper.docx](https://github.com/harperwill7/harperwill.github.io/blob/main/Milestone%20Two%20Enhancements%20Will%20Harper.docx)
 
 ### Enhancement Two: Algorithms and Data Structures
 
 * **Artifact:** Travlr Webserver
 * **Description:** This artifact represents the Travlr webserver application, which serves as a key element of a comprehensive booking system developed with Node.js, Express, and MongoDB (utilizing the Mongoose ORM). It was developed during the CS 465 Full Stack Development I course. The primary role of the application is to handle and deliver travel trip information through a RESTful API, facilitating crucial CRUD operations (Create, Read, Update, Delete) for destination entries. Although the initial version effectively linked to the database and provided endpoints, its design was solely functional and did not optimize for performance-critical aspects, such as efficiently searching for trips.
 * **Associated Files:**
-    * ./passport.js ./app.js ./user.js ./trie.js ./app.js ./authentication.js
-    * ./Milestone Three Enhancement Two.docx
+    * [./passport.js](https://github.com/harperwill7/harperwill.github.io/blob/main/passport.js) [./app.js](https://github.com/harperwill7/harperwill.github.io/blob/main/app.js) [./user.js](https://github.com/harperwill7/harperwill.github.io/blob/main/user.js) [./trie.js](https://github.com/harperwill7/harperwill.github.io/blob/main/trie.js) [./app.js ](https://github.com/harperwill7/harperwill.github.io/blob/main/app.js) [./authentication.js](https://github.com/harperwill7/harperwill.github.io/blob/main/authentication.js)
+    * [./Milestone Three Enhancement Two.docx](https://github.com/harperwill7/harperwill.github.io/blob/main/Milestone%20Three%20Enhancement%20Two.docx)
 
 ### Enhancement Three: Databases
 
 * **Artifact:** Travlr Webserver Database Integration
 * **Description:** The chosen artifact is a fundamental part of the Travlr webserver backend, particularly the Node.js application that utilizes Express, Mongoose, and MongoDB. The Travlr webserver functions as a complete RESTful API that handles user accounts, authentication (via JWT), and essential trip data. It provides endpoints for listing, searching, creating, and modifying trip details. This application architecture and primary API were crafted in a prior course to lay the groundwork for a functional, secure, and authenticated web application.
 * **Associated Files:**
-    * ./app.js ./trips.js ./travlr.js ./index.js ./trie.js
-    * ./Milestone Four Enhancement Three.docx
+    * [./app.js](https://github.com/harperwill7/harperwill.github.io/blob/main/app.js) [./trips.js](https://github.com/harperwill7/harperwill.github.io/blob/main/trips.js) [./travlr.js](https://github.com/harperwill7/harperwill.github.io/blob/main/travlr.js) [./index.js](https://github.com/harperwill7/harperwill.github.io/blob/main/index.js) [./trie.js](https://github.com/harperwill7/harperwill.github.io/blob/main/trie.js)
+    * [./Milestone Four Enhancement Three.docx](https://github.com/harperwill7/harperwill.github.io/blob/main/Milestone%20Four%20Enhancement%20Three.docx)
 
 ---
 
