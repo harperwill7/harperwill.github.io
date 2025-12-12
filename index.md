@@ -13,7 +13,7 @@ Welcome to my portfolio for CS499! This site showcases my work on the Thermostat
 
 A code review involves a thorough assessment of source code conducted by one or more individuals, usually peers, aimed at identifying errors, vulnerabilities, and ensuring compliance with coding standards prior to merging the code into a main branch or deploying it. This practice is vital for computer science professionals as it acts as a key quality checkpoint, greatly enhancing the overall quality, maintainability, and security of software by detecting defects early, facilitating knowledge sharing within the team, and reducing technical debt.
 
-**Link to Code Review Document/Files:** <https://youtu.be/3DG01vomTYg>
+**Link to Code Review Video:** <https://youtu.be/3DG01vomTYg>
 
 ## Artifacts and Enhancements
 
