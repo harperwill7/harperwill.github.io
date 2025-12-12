@@ -1,0 +1,5 @@
+# GitHub Pages (Jekyll) Configuration
+# This uses the minimal theme for a clean, simple look.
+theme: jekyll-theme-minimal
+title: Will Harper's CS499 ePortfolio
+description: Artifacts and Enhancements for CS499
